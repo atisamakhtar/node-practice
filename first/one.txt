@@ -1,0 +1,1 @@
+It is file on with some data will be duplicated to file 2

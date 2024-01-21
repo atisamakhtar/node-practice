@@ -1,0 +1,18 @@
+{
+  "name": "superheroesvillans",
+  "version": "1.0.0",
+  "description": "Random generating of superheroes and supervillans conducting fight between them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atisam akhtar",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^10.3.0",
+    "random-number-range": "^1.0.1",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
+  }
+}
